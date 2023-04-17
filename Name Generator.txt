@@ -1,0 +1,6 @@
+import random
+
+# Namen und Nachnamen aus verschiedenen Ländern
+deutsche_namen = ['Müller', 'Schmidt', 'Schneider', 'Fischer', 'Weber', 'Meyer', 'Wagner', 'Becker', 'Schulz', 'Hoffmann', 'Schäfer', 'Koch', 'Bauer', 'Richter', 'Klein', 'Wolf', 'Schröder', 'Neumann', 'Schwarz', 'Zimmermann', 'Braun', 'Krüger', 'Hofmann', 'Hartmann', 'Lange', 'Schmitt', 'Werner', 'Schmitz', 'Krause', 'Meier', 'Lehmann', 'Schmid', 'Schulze', 'Maier', 'Köhler', 'Hahn', 'Walter', 'Mayer', 'Lorenz', 'Böhm', 'Jung']
+polnische_namen = ['Nowak', 'Kowalski', 'Wiśniewski', 'Wójcik', 'Kowalczyk', 'Kamiński', 'Lewandowski', 'Zieliński', 'Szymański', 'Woźniak', 'Dąbrowski', 'Kozłowski', 'Jankowski', 'Mazur', 'Wojciechowski', 'Kwiatkowski', 'Krawczyk', 'Kaczmarek', 'Piotrowski', 'Grabowski', 'Nowakowski', 'Pawłowski', 'Michalski', 'Adamczyk', 'Nowicki', 'Sikora', 'Witkowski', 'Walczak', 'Baran', 'Rutkowski', 'Michalak', 'Szewczyk', 'Olszewski', 'Jabłoński', 'Majewski', 'Laskowski', 'Górski', 'Stępień', 'Zając', 'Krajewski', 'Krupa', 'Dudek']
+tuerkische_namen = 
